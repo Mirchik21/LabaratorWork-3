@@ -1,0 +1,15 @@
+C:\classwork\Labaratorwork-3\Labaratorwork-3\bin\Debug\net6.0\Labaratorwork-3.exe
+C:\classwork\Labaratorwork-3\Labaratorwork-3\bin\Debug\net6.0\Labaratorwork-3.deps.json
+C:\classwork\Labaratorwork-3\Labaratorwork-3\bin\Debug\net6.0\Labaratorwork-3.runtimeconfig.json
+C:\classwork\Labaratorwork-3\Labaratorwork-3\bin\Debug\net6.0\Labaratorwork-3.dll
+C:\classwork\Labaratorwork-3\Labaratorwork-3\bin\Debug\net6.0\Labaratorwork-3.pdb
+C:\classwork\Labaratorwork-3\Labaratorwork-3\obj\Debug\net6.0\Labaratorwork-3.csproj.AssemblyReference.cache
+C:\classwork\Labaratorwork-3\Labaratorwork-3\obj\Debug\net6.0\Labaratorwork-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\classwork\Labaratorwork-3\Labaratorwork-3\obj\Debug\net6.0\Labaratorwork-3.AssemblyInfoInputs.cache
+C:\classwork\Labaratorwork-3\Labaratorwork-3\obj\Debug\net6.0\Labaratorwork-3.AssemblyInfo.cs
+C:\classwork\Labaratorwork-3\Labaratorwork-3\obj\Debug\net6.0\Labaratorwork-3.csproj.CoreCompileInputs.cache
+C:\classwork\Labaratorwork-3\Labaratorwork-3\obj\Debug\net6.0\Labaratorwork-3.dll
+C:\classwork\Labaratorwork-3\Labaratorwork-3\obj\Debug\net6.0\refint\Labaratorwork-3.dll
+C:\classwork\Labaratorwork-3\Labaratorwork-3\obj\Debug\net6.0\Labaratorwork-3.pdb
+C:\classwork\Labaratorwork-3\Labaratorwork-3\obj\Debug\net6.0\Labaratorwork-3.genruntimeconfig.cache
+C:\classwork\Labaratorwork-3\Labaratorwork-3\obj\Debug\net6.0\ref\Labaratorwork-3.dll
